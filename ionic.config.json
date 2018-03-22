@@ -1,0 +1,8 @@
+{
+  "name": "second-real-app",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
